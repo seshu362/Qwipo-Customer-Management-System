@@ -386,7 +386,7 @@ curl "http://localhost:5000/api/customers?search=test"
 
 ## Quick Start Guide
 
-1. **Clone the repo**: `git clone https://github.com/seshu362/Qwipo-Customer-Management-System`
+1. **Clone the repo**: `git clone <https://github.com/seshu362/Qwipo-Customer-Management-System>`
 2. **Backend setup**: `cd server && npm install express sqlite sqlite3 cors && node server.js`
 3. **Frontend setup**: `cd client && npm install && npm start`
 4. **Access app**: Open http://localhost:3000
