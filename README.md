@@ -41,7 +41,6 @@ The Customer Management System is a comprehensive web application that allows us
 - Automatic city filtering from addresses
 
 ### User Interface
-- Responsive design for all screen sizes
 - Clean, intuitive interface
 - Form validation with error messages
 - Loading states and error handling
