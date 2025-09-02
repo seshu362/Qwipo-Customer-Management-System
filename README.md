@@ -50,13 +50,13 @@ The Customer Management System is a comprehensive web application that allows us
 ## Screenshots
 
 ### Customer List Page
-![Customer list with search and filter options](https://via.placeholder.com/800x500?text=Customer+List+View)
+![Customer list with search and filter options](https://res.cloudinary.com/dw7dhefpb/image/upload/v1756834237/Screenshot_2025-09-02_225855_fpjwmw.png)
 
 ### Customer Detail Page
-![Customer details with address management](https://via.placeholder.com/800x500?text=Customer+Detail+View)
+![Customer details with address management](https://res.cloudinary.com/dw7dhefpb/image/upload/v1756834237/Screenshot_2025-09-02_225908_m2j3qz.png)
 
 ### Customer Form
-![Add/Edit customer form with validation](https://via.placeholder.com/800x500?text=Customer+Form)
+![Add/Edit customer form with validation](https://res.cloudinary.com/dw7dhefpb/image/upload/v1756834237/Screenshot_2025-09-02_225916_nyphoa.png)
 
 ## Local Installation & Setup
 
