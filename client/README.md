@@ -41,7 +41,6 @@ The Customer Management System is a comprehensive web application that allows us
 - Automatic city filtering from addresses
 
 ### User Interface
-- Responsive design for all screen sizes
 - Clean, intuitive interface
 - Form validation with error messages
 - Loading states and error handling
@@ -51,17 +50,13 @@ The Customer Management System is a comprehensive web application that allows us
 ## Screenshots
 
 ### Customer List Page
-![Customer list with search and filter options](https://via.placeholder.com/800x500?text=Customer+List+View)
+![Customer list with search and filter options](https://res.cloudinary.com/dw7dhefpb/image/upload/v1756834237/Screenshot_2025-09-02_225855_fpjwmw.png)
 
 ### Customer Detail Page
-![Customer details with address management](https://via.placeholder.com/800x500?text=Customer+Detail+View)
+![Customer details with address management](https://res.cloudinary.com/dw7dhefpb/image/upload/v1756834237/Screenshot_2025-09-02_225908_m2j3qz.png)
 
 ### Customer Form
-![Add/Edit customer form with validation](https://via.placeholder.com/800x500?text=Customer+Form)
-
-## Live Demo
-
-🌐 **[View Live Demo](https://your-customer-management-demo.com)**
+![Add/Edit customer form with validation](https://res.cloudinary.com/dw7dhefpb/image/upload/v1756834237/Screenshot_2025-09-02_225916_nyphoa.png)
 
 ## Local Installation & Setup
 
@@ -72,14 +67,14 @@ The Customer Management System is a comprehensive web application that allows us
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/customer-management-system.git
+git clone https://github.com/seshu362/Qwipo-Customer-Management-System
 cd customer-management-system
 ```
 
 ### 2. Backend Setup
 ```bash
 # Navigate to backend directory
-cd backend
+cd server
 
 # Install dependencies
 npm install express sqlite sqlite3 cors
@@ -93,7 +88,7 @@ The backend server will run on `http://localhost:5000`
 ### 3. Frontend Setup
 ```bash
 # Open new terminal and navigate to frontend directory
-cd frontend
+cd client
 
 # Install dependencies
 npm install
@@ -320,7 +315,7 @@ The application includes comprehensive error handling:
 
 ### Manual Testing Steps
 
-1. **Start both servers** (backend on :5000, frontend on :3000)
+1. **Start both servers** (server on :5000, client on :3000)
 2. **Navigate to** http://localhost:3000
 3. **Test customer operations:**
    - View customer list
@@ -391,9 +386,9 @@ curl "http://localhost:5000/api/customers?search=test"
 
 ## Quick Start Guide
 
-1. **Clone the repo**: `git clone <repository-url>`
-2. **Backend setup**: `cd backend && npm install express sqlite sqlite3 cors && node server.js`
-3. **Frontend setup**: `cd frontend && npm install && npm start`
+1. **Clone the repo**: `git clone <https://github.com/seshu362/Qwipo-Customer-Management-System>`
+2. **Backend setup**: `cd server && npm install express sqlite sqlite3 cors && node server.js`
+3. **Frontend setup**: `cd client && npm install && npm start`
 4. **Access app**: Open http://localhost:3000
 5. **Test**: Create a customer, add addresses, search and filter
 
