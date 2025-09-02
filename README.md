@@ -58,10 +58,6 @@ The Customer Management System is a comprehensive web application that allows us
 ### Customer Form
 ![Add/Edit customer form with validation](https://via.placeholder.com/800x500?text=Customer+Form)
 
-## Live Demo
-
-🌐 **[View Live Demo](https://your-customer-management-demo.com)**
-
 ## Local Installation & Setup
 
 ### Prerequisites
@@ -71,7 +67,7 @@ The Customer Management System is a comprehensive web application that allows us
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/customer-management-system.git
+git clone https://github.com/seshu362/Qwipo-Customer-Management-System
 cd customer-management-system
 ```
 
